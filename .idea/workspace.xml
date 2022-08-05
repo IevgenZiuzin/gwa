@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a9b2722-cc73-4cbd-be90-f66152e47efc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/.theme-check.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/cart-drawer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/cart-notification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/collage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/collapsible-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-article-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-cart-drawer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-cart-items.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-cart-notification.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-collection-hero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-deferred-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-discounts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-facets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-image-with-text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-list-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-list-payment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-list-social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-loading-overlay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-mega-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-menu-drawer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-modal-video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-model-viewer-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-newsletter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-pickup-availability.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-predictive-search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-price.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-product-model.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-rating.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-rte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-show-more.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-slideshow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/component-totals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/customer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/customer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/details-disclosure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/details-modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/disclosure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/facets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/media-gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/newsletter-section.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/password-modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/pickup-availability.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/predictive-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/product-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/product-modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/product-model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/quick-add.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/quick-add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-blog-post.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-collection-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-contact-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-email-signup-banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-featured-blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-featured-product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-image-banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-main-blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-main-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-main-product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-multicolumn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-password.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-product-recommendations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/section-rich-text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/share.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/show-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/template-collection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/template-giftcard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/theme-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/assets/video-section.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/config/settings_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/config/settings_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/layout/password.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/layout/theme.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/bg-BG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/cs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/cs.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/da.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/de.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/en.default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/en.default.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/es.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/fi.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/fr.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/hr-HR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/id.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/it.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ja.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ko.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/lt-LT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/nb.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/nl.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pl.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pt-BR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pt-BR.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pt-PT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/pt-PT.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ro-RO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/sk-SK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/sl-SI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/sv.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/th.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/tr.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/vi.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/zh-CN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/zh-CN.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/zh-TW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/locales/zh-TW.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/release-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/announcement-bar.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/apps.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/cart-drawer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/cart-icon-bubble.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/cart-live-region-text.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/cart-notification-button.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/cart-notification-product.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/collage.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/collapsible-content.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/collection-list.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/contact-form.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/custom-liquid.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/email-signup-banner.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/featured-blog.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/featured-collection.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/featured-product.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/footer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/header.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/image-banner.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/image-with-text.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-404.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-account.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-activate-account.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-addresses.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-article.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-blog.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-cart-footer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-cart-items.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-collection-banner.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-collection-product-grid.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-list-collections.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-login.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-order.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-page.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-password-footer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-password-header.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-product.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-register.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-reset-password.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/main-search.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/multicolumn.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/newsletter.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/page.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/pickup-availability.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/predictive-search.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/product-recommendations.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/rich-text.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/slideshow.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/sections/video.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/article-card.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/card-collection.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/card-product.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/cart-drawer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/cart-notification.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/email-signup-banner-background-mobile.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/email-signup-banner-background.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/facets.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-3d-model.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-accordion.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-account.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-arrow.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-caret.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-cart-empty.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-cart.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-checkmark.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-clipboard.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-close-small.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-close.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-discount.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-error.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-facebook.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-filter.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-hamburger.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-instagram.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-minus.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-padlock.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-pause.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-pinterest.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-play.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-plus.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-remove.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-share.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-snapchat.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-success.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-tick.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-tiktok.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-tumblr.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-twitter.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-unavailable.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-vimeo.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-youtube.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/icon-zoom.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/meta-tags.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/pagination.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/price.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/product-media.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/snippets/product-thumbnail.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/article.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/blog.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/cart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/activate_account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/addresses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/login.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/order.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/customers/reset_password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/gift_card.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/list-collections.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/page.contact.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/page.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/product.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/templates/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eugene/translation.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Cvwlw2LBt7ZOZP1Xnns3RBZsMR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9b2722-cc73-4cbd-be90-f66152e47efc" name="Changes" comment="" />
+      <created>1659696520605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659696520605</updated>
+      <workItem from="1659696521826" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
